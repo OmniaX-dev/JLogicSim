@@ -1,0 +1,3 @@
+debug = false;
+grid = true;
+cut = true;

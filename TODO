@@ -1,0 +1,18 @@
+-------CRITICAL------
+Settings (wire width, show component names, 
+
+------MEDIUM--------
+
+
+-----BUGS/FIXES-----
+Fix position of components when adding many
+fix wire cut 
+
+-----DESIGN-----
+Fix add component dialog
+fix create component dialog
+
+
+------FEATURES-------
+Themes (maybe an external file, with icons and all)
+
